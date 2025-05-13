@@ -140,7 +140,7 @@
 
 1. **缩进和空格**
    1. 缩进对齐，属于同一个代码块的代码对齐，不同的错开。  
-        Do this:heavy_check_mark:
+        Do this. :heavy_check_mark:
         ```c++
         while(true){
             angle = Encoder.position();
@@ -153,7 +153,7 @@
         }
 
         ```
-        Don't do this:x:
+        Don't do this. :x:
         ```c++
         while(true){
         angle = Encoder.position();
@@ -166,7 +166,7 @@
                 }
         ```
     2. 行宽过长时换行对齐。  
-        Do this:heavy_check_mark:
+        Do this. :heavy_check_mark:
         ```c++
         left_velocity = (
             rpm_to_mm_s(LF.velocity(velocityUnits::rpm) * GEAR_RATIO , DRIVE_WHEEL_R * 2) +
@@ -176,18 +176,18 @@
         ) / 4;
 
         ```
-        Don't do this:x:
+        Don't do this. :x:
         ```c++
         left_velocity = ( rpm_to_mm_s(LF.velocity(velocityUnits::rpm) * GEAR_RATIO , DRIVE_WHEEL_R * 2) + rpm_to_mm_s(LMF.velocity(velocityUnits::rpm) * GEAR_RATIO , DRIVE_WHEEL_R * 2) + rpm_to_mm_s(LMB.velocity(velocityUnits::rpm) * GEAR_RATIO , DRIVE_WHEEL_R * 2) + rpm_to_mm_s(LB.velocity(velocityUnits::rpm) * GEAR_RATIO , DRIVE_WHEEL_R * 2) ) / 4;
         ```
     3. 符号，对象之间用空格隔开。  
-        Do this:heavy_check_mark:
+        Do this. :heavy_check_mark:
         ```c++
         point.x = uu * p0.x + 2 * u * t * p1.x + tt * p2.x;
 
         PurePursuit(QuadraticBezierPathPlan(p0 , p1 , p2 , 200) , 1600);
         ```
-        Don't do this:x:
+        Don't do this. :x:
         ```c++
         point.x=uu*p0.x+2*u*t*p1.x+tt*p2.x;
         
@@ -209,7 +209,7 @@
         ```
 2. **命名规范**
     我们会给：类（结构体）、函数、常量、全局变量、静态变量、成员变量、临时变量（参数）等进行命名，总体原则：**清晰、简洁、避免缩写（除非广泛接受）**。  
-    Do this:heavy_check_mark:
+    Do this. :heavy_check_mark:
     ```c++
     int object_num = 0; //代表物体的数目，使用单词object和常用缩写num（number）
     float driveVoltage = 1000; //代表驱动电压，使用单词drive和voltage
@@ -230,7 +230,7 @@
         odometry();
     };
     ```
-    Don't do this:x:
+    Don't do this. :x:
     ```c++
     //含义完全不清楚
     int a = 1; 
