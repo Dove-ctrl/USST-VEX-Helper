@@ -3,8 +3,8 @@
 
 ### :question:什么是VEX机器人竞赛
 VEX机器人比赛是由美国机器人教育及竞赛基金会（REC Foundation）主办的全球性机器人赛事，旨在通过实践激发学生对 **科学、技术、工程、艺术和数学（STEAM）** 的兴趣，培养创新能力和团队合作精神。VEX机器人比赛已被吉尼斯认证为 **“全球最大规模机器人竞赛”** ，参赛队伍1600+，覆盖70+国家，每年超百万学生参与。最高级别赛事为 **VEX World Championship（世界锦标赛）** ，汇集全球优胜队伍，常在美国举办，具有极高竞技水平。部分高校（如 **MIT、斯坦福** ）认可VEX经历，优秀选手可能获得奖学金或竞赛加分，同时世界顶尖企业（如 **特斯拉，德州仪器，谷歌等** ）也认可参加过VEX的学生。目前，国内部分 **白名单赛事** ，如中国高校智能机器人创意大赛，robocup机器人世界杯等，也已经把VEX机器人比赛作为专项赛进行比赛。
-![vex worlds](./picture/vex%20worlds.jpg)
-![vex wuxi](./picture/vex%20wuxi.jpg)
+![vex worlds](./attachment/picture/vex%20worlds.jpg)
+![vex wuxi](./attachment/picture/vex%20wuxi.jpg)
 ***
 
 ### 组别
@@ -12,21 +12,19 @@ VEX比赛根据参赛者的年龄和技术难度分为多个组别：
 - **VEX IQ**：面向8-14岁的小学生和初中生，使用塑料积木式套件，强调基础工程和编程概念。主要是通过合作得分来进行比赛。
 - **VEX V5RC（VRC）**：面向11-18岁的中学生，采用金属结构和更复杂的电子系统，适合进阶学习。主要是通过红蓝双方对抗得分来进行比赛，更加注重得分策略和赛局分析。
 - **VEX U**：面向大学生，本质上是V5RC的进阶，在同一个赛季主题下进行，但是放开了机器人设计的各种限制，场地元素摆放会改变，挑战更高难度的设计，鼓励创新性解决方案。
-![vexu1](./picture/vex%20u1.jpg)
-![vexu2](./picture/vex%20u2.jpg)
 ***
 
 ### 赛季主题
 每年比赛会围绕一个 **特定主题** 展开（这里只介绍V5RC和VEX U），例如：
 
 - 2022-2023赛季主题：Spin Up
-  ![spin up](./picture/spin%20up.png)
+  ![spin up](./attachment/picture/spin%20up.png)
 - 2023-2024赛季主题：Over Under
-  ![over under](./picture/over%20under.webp)
+  ![over under](./attachment/picture/over%20under.webp)
 - 2024-2025赛季主题：High Stakes
-  ![high stakes](./picture/high%20stakes.png)
+  ![high stakes](./attachment/picture/high%20stakes.png)
 - 2025-2026赛季主题：Push Back
-  ![push back](./picture/push%20back.png)
+  ![push back](./attachment/picture/push%20back.png)
 ***
 
 ### 赛局
@@ -74,3 +72,7 @@ VEX机器人竞赛是 **以学生为中心** 的竞赛。为了确保学生能�
   颁发给技能赛总冠军，代表赛队在编程和操控能力上的突出表现。
 - :trophy:**其他专项奖**
   主要是由评审的表现决定，例如评审奖，设计奖等。
+
+***
+
+#### :door: [回到主页](/readme.md)
