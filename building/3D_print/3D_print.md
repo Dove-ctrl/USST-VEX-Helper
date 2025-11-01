@@ -13,7 +13,6 @@
 - [HMS报错代码](/building/3D_print/HMS.md)
 - [软件](/building/3D_print/software.md)
 - [打印耗材](/building/3D_print/filament.md)
-- [配件](/building/3D_print/accessories.md)
 
 ***
 
