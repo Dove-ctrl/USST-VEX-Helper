@@ -10,6 +10,11 @@
 - [创建你的第一个项目](/programming/project_creation.md)
 - [C++编写规范](/programming/programming_standards.md)
 - [VEX API食用指南](/programming/VEX_API.md)
+- [程序结构设计](/programming/program_structure_design.md)
+- [PID控制](/programming/PID.md)
+- [底盘示例](/programming/chassis_example.md)
+- [轮式机器人自主移动](/programming/autonomous_movement/autonomous_movement.md)
+
 ***
 
 #### :door: [回到主页](/readme.md)

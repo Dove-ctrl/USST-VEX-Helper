@@ -6,12 +6,12 @@
 ***
 
 ### :door:目录
-- [什么是VEX?](./competition.md)
-- [编程](./programming/programming.md)
-- [搭建](./building/building.md)
-- [评审](./interview/interview.md)
-- [工程笔记](./notebook/notebook.md)
-- [团队管理](./manage/manage.md)
+- :question: [什么是VEX?](./competition.md)
+- :computer: [编程](./programming/programming.md)
+- :hammer: [搭建](./building/building.md)
+- :information_desk_person: [评审](./interview/interview.md)
+- :notebook: [工程笔记](./notebook/notebook.md)
+- :family: [团队管理](./manage/manage.md)
 
 ### :phone:联系编者
 - [Dove-ctrl](https://github.com/Dove-ctrl)
@@ -20,5 +20,4 @@
 ### 致谢
 
 ### 更新日志
-- 2025.5.14 更新“编程”版块。
-- 2025.10.28 更新“编程”版块，细分编程内容。
+- 2025.10.28 - 更新“编程”版块，添加“程序结构设计”内容，优化编程内容排版。
