@@ -12,9 +12,9 @@
 - [VEX API食用指南](/programming/API/VEX_API.md)
 - [程序结构设计](/programming/program_structure_design.md)
 - [PID控制](/programming/PID.md)
-- [PID示例](/programming/PID.md)
+- [PID示例](/programming/code_example/PID_example.md)
 - [轮式机器人自主移动](/programming/autonomous_movement/autonomous_movement.md)
-- [底盘示例](/programming/chassis_example.md)
+- [底盘示例](/programming/code_example/chassis_example.md)
 
 ***
 
